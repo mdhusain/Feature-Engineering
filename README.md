@@ -2,7 +2,7 @@
 
 This repo contains code snippets and datasets used in my Medium article "7 of the most Used Feature Engineering Techniques":
 
-https://medium.com/p/bcc50f48474d/edit
+
 
 ![](./img/header_img.png)
 
