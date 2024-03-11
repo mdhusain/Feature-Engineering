@@ -8,7 +8,7 @@ https://medium.com/p/bcc50f48474d/edit
 
 ## Used Libraries and Tools
 
-* Python: 
+* Python: ..
   * Pandas
   * Scikit-learn
   * Tensorflow
